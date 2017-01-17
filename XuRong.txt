@@ -1,1 +1,0 @@
-Java 多用户登录限制的实现方法 – java笔记     http://www.cfei.net/archives/65998
